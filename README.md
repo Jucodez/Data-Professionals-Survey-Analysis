@@ -5,7 +5,7 @@
 
 The survey to be examined gathered information on data professionals across different countries, with the goal of gaining insights into the current attributes of individuals working in the data industry.
 
-Develop a dashboard to assist users comprehend the collected data and gain insights into the realities of being a data professional in their specific country.
+Develop a dashboard to assist prospecting data analysts comprehend the collected data and gain insights into the realities of being a data professional in their specific country.
 
 
 ## Steps followed 
