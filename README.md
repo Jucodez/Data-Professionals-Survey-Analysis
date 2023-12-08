@@ -5,12 +5,12 @@
 
 The survey to be examined gathered information on data professionals across different countries, with the goal of gaining insights into the current attributes of individuals working in the data industry.
 
-Develop a dashboard to assist users in comprehending the collected data and gaining insights into the realities of being a data professional in their specific country.
+Develop a dashboard to assist users comprehend the collected data and gain insights into the realities of being a data professional in their specific country.
 
 
 ## Steps followed 
 
-- Step 1 : Load data from Microsoft Excel into Microsoft Power BI, transform data in power query.
+- Step 1 : Load data from Microsoft Excel into Microsoft Power BI, and transform data in power query.
 - Step 2 : Remove unnecessary columns (Browser, OS, City, Country, Referrer).
 - Step 3 : Split column "Q1 - Which Title Best Fits your Current Role?" by delimiter "(".
 - Step 4 : Remove column"Q1 - Which Title Best Fits your Current Role?.2" created by splitting original column by delimiter "(".
